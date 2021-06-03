@@ -37,7 +37,7 @@ author = "Rita"
 description = "Style Thoughts by Rita"
 [params.banner]
 heading = ""
-image = "banner.png"
+image = "/images/blue-and-white-professional-business-blog-banner.png"
 [params.blog]
 heading = "Style as self-expression, storytelling, pleasure, and play. \nBook a style talk with me or learn from me in my blog."
 [params.call_to_action]
