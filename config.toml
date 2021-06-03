@@ -47,11 +47,11 @@ content = "I offer 60 minute style consultations to help you see yourself clearl
 enable = true
 title = "Book your \"Style Talk with Rita\""
 [params.footer]
-address = "123 Main Street <br> New York, NY 10001"
-content = "This may be a good place to introduce yourself and your site or include some credits."
+address = "https://www.youtube.com/channel/UCQ8aepOZG20AZTyZLwRuocQ"
+content = "My name is Rita and I am a style thinker, content creator, and style guide. Read about my work here or watch my YT channel!"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-title = "About This Site"
+hours = "Whenever you want them to be."
+title = "Style Thoughts by Rita"
 [params.gallery]
 enable = false
 gallery_item = []
