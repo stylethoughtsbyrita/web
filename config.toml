@@ -19,13 +19,13 @@ URL = "/"
 name = "Home"
 weight = 1
 [[menu.main]]
-URL = "blog"
-name = "Style Thoughts"
-weight = 3
-[[menu.main]]
 URL = "styletalk"
 name = "Consultations"
 weight = "3"
+[[menu.main]]
+URL = "blog"
+name = "Style Thoughts"
+weight = 3
 [[menu.main]]
 URL = "about"
 name = "About"
