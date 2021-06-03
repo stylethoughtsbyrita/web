@@ -33,13 +33,13 @@ weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
-description = "This is meta description"
+author = "Rita"
+description = "Style Thoughts by Rita"
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "Welcome to Style Thoughts by Rita!"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "Style as self-expression, storytelling, pleasure, and play. \nBook a style talk with me or learn from me in my blog."
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
