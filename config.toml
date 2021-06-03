@@ -36,8 +36,8 @@ home = ["HTML", "RSS", "JSON"]
 author = "Rita"
 description = "Style Thoughts by Rita"
 [params.banner]
-heading = "Welcome to Style Thoughts by Rita!"
-image = "images/2020-landscape-1-2.png"
+heading = ""
+image = "banner.png"
 [params.blog]
 heading = "Style as self-expression, storytelling, pleasure, and play. \nBook a style talk with me or learn from me in my blog."
 [params.call_to_action]
